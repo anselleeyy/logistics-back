@@ -7,9 +7,9 @@
 ![](https://img.shields.io/badge/Maven-3.5.2-orange.svg) 
 ![](https://img.shields.io/badge/Licence-MIT-green.svg)
 
-- 个人博客地址：https://www.ltysyn.cn/?p=164
-- csdn 地址：https://blog.csdn.net/ansellyy/article/details/80998551
-- 前端项目地址：https://github.com/anselleeyy/Course-System-front
+- 个人博客地址：https://www.ltysyn.cn/?p=173
+- csdn 地址：https://blog.csdn.net/ansellyy/article/details/81099922
+- 前端项目地址：https://github.com/anselleeyy/logistics-front
 - 欢迎大家 star 或者 fork
 
 <!-- TOC -->
