@@ -1,5 +1,11 @@
 # logistics-back( 物流管理系统后端 ）
 
+---
+2018.09.08 更新
+
+- 上传案例sql脚本
+- 可登录用户： { username: admin, password: admin } 
+
 基于 SpringBoot 2.0 + Layui2 框架的物流管理系统，采用前后端分离，这是后端项目
 
 ![](https://img.shields.io/badge/Author-AnselLee-blue.svg)
