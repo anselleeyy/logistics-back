@@ -1,19 +1,27 @@
 # logistics-back( 物流管理系统后端 ）
 
+基于 SpringBoot 2.0 + Layui2 框架的物流管理系统，采用前后端分离，这是后端项目
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Author-AnselLee-blue.svg">
+	<img src="https://img.shields.io/badge/SpringBoot-2.0.2.RELEASE-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Maven-3.5.2-orange.svg">
+	<img src="https://img.shields.io/badge/Licence-MIT-green.svg">
+</p>
+
 ---
 2018.09.08 更新
 
 - 上传案例sql脚本
-- 可登录用户： { username: admin, password: 123456 } 
+- 可登录用户： { username: GL846489, password: 123456 } 
+- 修复 User.java 和 ClearController.java 代码bug
 
 ---
 
-基于 SpringBoot 2.0 + Layui2 框架的物流管理系统，采用前后端分离，这是后端项目
-
-![](https://img.shields.io/badge/Author-AnselLee-blue.svg)
-![](https://img.shields.io/badge/SpringBoot-2.0.2.RELEASE-brightgreen.svg) 
-![](https://img.shields.io/badge/Maven-3.5.2-orange.svg) 
-![](https://img.shields.io/badge/Licence-MIT-green.svg)
+> 作者和小伙伴是准大四学生，该项目的原型来自一个课设，所以各方面功能的设计以及后面的代码都缺乏可用性  
+> 这是作者的第一个 Springboot 项目，主要以学习为主  
+> 后面将会上线一个基于 SpringBoot + SpringCloud + Vue 这样架构的前后端分离项目（不再是这样的伪分离啦），敬请期待  
+> 如果这个项目觉得很 low，请勿喷
 
 - 个人博客地址：https://www.ltysyn.cn/?p=173
 - csdn 地址：https://blog.csdn.net/ansellyy/article/details/81099922
