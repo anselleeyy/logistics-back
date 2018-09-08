@@ -27,6 +27,7 @@ public class User {
 	@Column(length = 50)
 	private String password;
 	
+	@Column(columnDefinition = "bit(1) default 0")
 	private boolean ifOnline;// 是否在线
 
 	public User() {
