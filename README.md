@@ -4,7 +4,7 @@
 2018.09.08 更新
 
 - 上传案例sql脚本
-- 可登录用户： { username: admin, password: admin } 
+- 可登录用户： { username: admin, password: 123456 } 
 
 ---
 
